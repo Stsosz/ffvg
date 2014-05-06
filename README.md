@@ -2,7 +2,7 @@ The Firefox Virus Game
 ====
 An evil virus/prank designed by BlackStallion Labs. Please excuse the odd code and weird filenames, this was my first program!
 ====
-I AM NOT LIABLE FOR ANY
+I AM NOT LIABLE FOR ANY DAMAGES CAUSED BY THIS SOFTWARE!
 ====
 You DO NOT need to touch any files OTHER THAN THE DEBUG FOLDER! All other items are simply the items IN the DEBUG folder. Just fork the repo and copy DEBUG to wherever you want.
 ====
