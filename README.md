@@ -1,12 +1,12 @@
 The Firefox Virus Game
-===
+====
 
 An evil virus/prank designed by BlackStallion Labs. Please excuse the odd code and weird filenames, this was my first program!
 
-===
+====
 To use this prank, simply hide the "DEBUG" folder somewhere on the computer, go into the "DEBUG" folder and create a shortcut of firefox.exe, and put it on the desktop, or more annoying in the "Startup " folder.
 
-===
+====
 
 TO WIN!!!!! IMPORTANT!!!!!
 
