@@ -4,6 +4,9 @@ An evil virus/prank designed by BlackStallion Labs. Please excuse the odd code a
 ====
 I AM NOT LIABLE FOR ANY DAMAGES CAUSED BY THIS SOFTWARE!
 ====
+
+FFVG is a prank application to troll your friends or enemies! Just read the good ol' Readme and have a great time crashing your friends' Pc!
+
 You DO NOT need to touch any files OTHER THAN THE DEBUG FOLDER! All other items are simply the items IN the DEBUG folder. Just fork the repo and copy DEBUG to wherever you want.
 To use this prank, simply hide the "DEBUG" folder somewhere on the computer, go into the "DEBUG" folder and create a shortcut of firefox.exe, and put it on the desktop, or more annoying in the "Startup " folder.
 
