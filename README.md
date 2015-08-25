@@ -1,6 +1,6 @@
 The Firefox Virus Game
 ====
-An evil virus/prank designed by r00tkid. Please excuse the odd code and weird filenames, this was my first program!
+An evil virus/prank designed by Stsosz. Please excuse the spaghetti code and dumb filenames, this was my first vb program!
 ====
 I AM NOT LIABLE FOR ANY DAMAGES CAUSED BY THIS SOFTWARE!
 ====
